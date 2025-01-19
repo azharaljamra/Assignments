@@ -1,0 +1,4 @@
+plane,Cairo,Dubai,2025-01-19 21:01:01.073518,150.0,true,30.0
+bus,Alexandria,Cairo,2025-01-19 19:01:01.073518,50.0,true,A1
+plane,Cairo,Dubai,2025-01-19 21:01:23.419201,150.0,true,30.0
+bus,Alexandria,Cairo,2025-01-19 19:01:23.419201,50.0,true,A1

@@ -1,0 +1,2 @@
+John Doe,123456789,plane,Cairo,Dubai,2025-01-19 21:01:01.073518,150.0,true,30.0
+John Doe,123456789,plane,Cairo,Dubai,2025-01-19 21:01:01.073518,150.0,true,30.0
